@@ -1,0 +1,5 @@
+step 1: install all the require library in the requirements.txt file
+step 2: go to src folder and execute mainwindow.py
+
+NOTE: This project we build using python version 3.6
+you can see the sample input image and recognizetext.txt file 
